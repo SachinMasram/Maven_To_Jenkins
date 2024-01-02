@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Opening Flipkart Page]]>
+    </line>
+    <line>
+      <![CDATA[Opening Ajio Page]]>
+    </line>
+    <line>
+      <![CDATA[Opening Meesho Page]]>
+    </line>
+    <line>
+      <![CDATA[Opening Amazon]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-02T00:31:30 IST" name="Suite" finished-at="2024-01-02T00:31:52 IST" duration-ms="22678">
+    <groups>
+    </groups>
+    <test started-at="2024-01-02T00:31:30 IST" name="Test" finished-at="2024-01-02T00:31:52 IST" duration-ms="22678">
+      <class name="e_commerce.meesho">
+        <test-method signature="meeshoTest()[pri:0, instance:e_commerce.meesho@25084a1e]" started-at="2024-01-02T00:31:45 IST" name="meeshoTest" finished-at="2024-01-02T00:31:49 IST" duration-ms="3357" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Meesho Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- meeshoTest -->
+      </class> <!-- e_commerce.meesho -->
+      <class name="e_commerce.Flipkart">
+        <test-method signature="flipkartTest()[pri:0, instance:e_commerce.Flipkart@759d26fb]" started-at="2024-01-02T00:31:30 IST" name="flipkartTest" finished-at="2024-01-02T00:31:39 IST" duration-ms="9522" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Flipkart Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- flipkartTest -->
+      </class> <!-- e_commerce.Flipkart -->
+      <class name="e_commerce.amazon">
+        <test-method signature="amazonTest()[pri:0, instance:e_commerce.amazon@156b88f5]" started-at="2024-01-02T00:31:49 IST" name="amazonTest" finished-at="2024-01-02T00:31:52 IST" duration-ms="3502" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Amazon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+      </class> <!-- e_commerce.amazon -->
+      <class name="e_commerce.ajio">
+        <test-method signature="ajioTest()[pri:0, instance:e_commerce.ajio@bd4dc25]" started-at="2024-01-02T00:31:39 IST" name="ajioTest" finished-at="2024-01-02T00:31:45 IST" duration-ms="6250" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Ajio Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ajioTest -->
+      </class> <!-- e_commerce.ajio -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
