@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Opening Snapdeal page]]>
+      <![CDATA[Opening Shopclues Page]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-02T23:47:37 IST" name="Default suite" finished-at="2024-01-02T23:47:47 IST" duration-ms="9960">
+  <suite started-at="2024-01-08T14:06:45 IST" name="Default suite" finished-at="2024-01-08T14:06:56 IST" duration-ms="10845">
     <groups>
     </groups>
-    <test started-at="2024-01-02T23:47:37 IST" name="Default test" finished-at="2024-01-02T23:47:47 IST" duration-ms="9960">
-      <class name="e_commerce.Snapdeal">
-        <test-method signature="snapdealTest()[pri:0, instance:e_commerce.Snapdeal@2b48a640]" started-at="2024-01-02T23:47:37 IST" name="snapdealTest" finished-at="2024-01-02T23:47:47 IST" duration-ms="9920" status="PASS">
+    <test started-at="2024-01-08T14:06:45 IST" name="Default test" finished-at="2024-01-08T14:06:56 IST" duration-ms="10845">
+      <class name="e_commerce.shopclues">
+        <test-method signature="shopcluesTest()[pri:0, instance:e_commerce.shopclues@2b48a640]" started-at="2024-01-08T14:06:45 IST" name="shopcluesTest" finished-at="2024-01-08T14:06:56 IST" duration-ms="10806" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Opening Snapdeal page]]>
+              <![CDATA[Opening Shopclues Page]]>
             </line>
           </reporter-output>
-        </test-method> <!-- snapdealTest -->
-      </class> <!-- e_commerce.Snapdeal -->
+        </test-method> <!-- shopcluesTest -->
+      </class> <!-- e_commerce.shopclues -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
